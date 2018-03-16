@@ -1,0 +1,2 @@
+# qrcode
+create qrcode component.
